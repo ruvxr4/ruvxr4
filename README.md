@@ -1,1 +1,10 @@
-<img src="https://i.pinimg.com/736x/b0/21/da/b021da245208fd68981e124a0dacd8e3.jpg" alt="รูปจาก Pinterest" width="100%">
+# 🙋‍♂️ Welcome!
+
+<img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" alt="Cool Animated Banner" width="100%">
+
+---
+
+## 💬 About Me
+- 👨‍💻 Passionate about coding
+- 🌐 Love open-source
+- 📫 Contact: myemail@example.com
