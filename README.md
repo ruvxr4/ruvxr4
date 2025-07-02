@@ -1,6 +1,6 @@
 # 🌀 hihi
 
-### `a young dev in rmutl`
+### `young dev in rmutl`
 Im Ryu, but you can call me Jaylyn. Im a student at RMUTL and currently learning to code.
 
 ### 🎯Hobby
