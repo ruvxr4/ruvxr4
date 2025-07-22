@@ -1,7 +1,7 @@
 # 🌀 hihi
 
 ### `young dev in rmutl`
-Im Ryu, but you can call me Jaylyn. Im a student at RMUTL and currently learning to code.
+Im Apisit, but you can call me Ryu or Jaylyn. Im a student at RMUTL and currently learning to code.
 
 ---
 
